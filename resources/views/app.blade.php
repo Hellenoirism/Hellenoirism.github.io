@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Personal Portfolio of Hellenoirism">
+    <meta name="author" content="Hellenoirism">
+    <meta title="Hellenoirism Portfolio">
+    <meta name="keywords" content="HTML, CSS, JavaScript, Vue, Laravel, Portfolio">
     <title>Hellenoirism</title>
     @vite(['resources/js/app.ts'])
 </head>
